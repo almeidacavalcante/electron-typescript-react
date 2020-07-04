@@ -1,8 +1,4 @@
-# This Repo Was Commited By SpeedX's Commit Bot
-### GITHUB LINK
-<a href='https://github.com/thespeedx/commit-bot'> Click Here </a>
-
-# Electron Boilerplate
+ Commit test...# Electron Boilerplate
 
 Base project to create brand new Electron project
 
@@ -64,7 +60,4 @@ Inspiration, code snippets, etc.
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-# This Repo Was Commited By SpeedX's Commit Bot
-### GITHUB LINK
-<a href='https://github.com/thespeedx/commit-bot'> Click Here </a>
-
+ Commit test...
