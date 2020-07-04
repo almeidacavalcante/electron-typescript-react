@@ -1,4 +1,6 @@
- Commit test...# Electron Boilerplate
+This is a simple test for a dinamic commit 
+
+# Electron Boilerplate
 
 Base project to create brand new Electron project
 
@@ -60,4 +62,5 @@ Inspiration, code snippets, etc.
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
- Commit test...
+This is a simple test for a dinamic commit 
+
