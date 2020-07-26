@@ -1,18 +1,14 @@
-import React from 'react'
-import { render } from 'react-dom'
-import { GlobalStyle } from './styles/GlobalStyle'
+import React from 'react';
+import GlobalStyles from './styles/GlobalStyles';
+import Layout from './components/Layout';
 
-const mainElement = document.createElement('div')
-mainElement.setAttribute('id', 'root')
-document.body.appendChild(mainElement)
-
-const App = () => {
+function App() {
   return (
     <>
-      <h1>Hello</h1>
-      <GlobalStyle />
+      <Layout />
+      <GlobalStyles />
     </>
-  )
+  );
 }
 
-render(<App />, mainElement)
+export default App;
