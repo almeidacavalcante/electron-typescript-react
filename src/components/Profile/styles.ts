@@ -6,10 +6,10 @@ export const Container = styled.div`
   display: flex;
   align-items: center;
 
-  padding: 0 0 0 30px;
+  padding: 0 0 0 40px;
 
   & > div > span {
-    color: var(--grafith); 
+    color: var(--silver); 
     font-size: 12px;
   }
 `;

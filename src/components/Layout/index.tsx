@@ -4,6 +4,7 @@ import { Grid } from './styles';
 import Logo from '../Logo';
 import Profile from '../Profile';
 import Menu from '../Menu';
+import SwitchMode from '../SwitchMode';
 
 const Layout: React.FC = () => {
   return (
@@ -11,8 +12,8 @@ const Layout: React.FC = () => {
       <Logo />
       <Profile profile={{name: 'Marcia Costa'}} />
       <Menu />
-      {/* <SwitchMode />
-      <Logout /> */}
+      <SwitchMode />
+      {/* <Logout /> */}
 
     </Grid>
   )
