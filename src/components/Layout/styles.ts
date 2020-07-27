@@ -4,7 +4,7 @@ export const Grid = styled.div`
   display: grid;
 
   grid-template-columns: 200px auto 400px;
-  grid-template-rows: 150px 80px auto 200px 100px;
+  grid-template-rows: 150px 80px auto 200px 70px;
 
   grid-template-areas:
     'LG TI SR'

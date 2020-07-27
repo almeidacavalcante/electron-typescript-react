@@ -12,7 +12,7 @@ export default createGlobalStyle`
   }
 
   body, html {
-    background-color: var(--silverlight)
+    background-color: var(--white)
   }
 
   input, button, * {
