@@ -8,6 +8,8 @@ import MenuItem from "../MenuItem";
 const Menu: React.FC = () => {
   return (
     <Container>
+      <span className='account'>Account</span>
+
       <MenuItem name='Home' />
       <MenuItem active name='My Profile' />
       <MenuItem name='Messages' />

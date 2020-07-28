@@ -7,12 +7,20 @@ export const Container = styled.div<Props>`
   height: 50px;
   width: 100%;
 
-  margin: 0 0 0 70px;
+  margin: 0 0 0 40px;
 
   cursor: pointer;
 
   span, svg {
+    transition: 0.3s color ease;
     color: ${props => props.active ? 'var(--primary)' : 'var(--silver)'};
+  }
+  
+  &:hover {
+    span, svg {
+      color: var(--grafith);
+      transition: 0.3s color ease;
+    }
   }
 `;
 

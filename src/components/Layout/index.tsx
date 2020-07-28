@@ -6,6 +6,8 @@ import Profile from '../Profile';
 import Menu from '../Menu';
 import SwitchMode from '../SwitchMode';
 import Logaout from '../Logaout';
+import SearchBar from '../SearchBar';
+import RightContainer from '../RightContainer';
 
 const Layout: React.FC = () => {
 
@@ -20,6 +22,9 @@ const Layout: React.FC = () => {
       <Menu />
       <SwitchMode />
       <Logaout onLogout={handleLogout}/>
+
+      <SearchBar/>
+      <RightContainer/>
 
     </Grid>
   )

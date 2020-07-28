@@ -2,13 +2,15 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   grid-area: SW;
-  background: #0001;
+  border-right: 2px solid var(--silverlighter);
+`;
 
+export const Component = styled.div`
+  background: var(--whitesmoke);
+  height: min-content;
   border-radius: 20px;
   padding: 20px;
-  margin: 0 0 0 20px;
-
-  height: min-content;
+  margin: 0 20px;
 `;
 
 export const Switch = styled.div`

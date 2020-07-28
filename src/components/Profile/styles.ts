@@ -7,6 +7,7 @@ export const Container = styled.div`
   align-items: center;
 
   padding: 0 0 0 40px;
+  border-right: 2px solid var(--silverlighter);
 
   & > div > span {
     color: var(--silver); 

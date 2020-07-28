@@ -11,9 +11,10 @@ const Switcher: React.FC<Props> = () => {
   const [isActive, setIsActive] = useState(false);
 
   return (
-    <Container active={isActive} onClick={() => setIsActive(!isActive)}>
-
-    </Container>
+    <Container 
+      active={isActive}
+      onClick={() => setIsActive(!isActive)}
+    />
   );
 };
 

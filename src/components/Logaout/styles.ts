@@ -8,6 +8,7 @@ export const Container = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  border-right: 2px solid var(--silverlighter);
   padding: 0 40px;
   
   cursor: pointer;

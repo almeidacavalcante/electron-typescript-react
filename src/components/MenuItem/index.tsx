@@ -7,7 +7,6 @@ export interface Props {
   active?: boolean;
 }
 
-
 const MenuItem: React.FC<Props> = ({name, active}) => {
   return (
     <Container active={active}>

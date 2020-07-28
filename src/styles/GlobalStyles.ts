@@ -27,10 +27,17 @@ export default createGlobalStyle`
     --accent: #ebab51;
     --error: #f45859;
 
-    --gray: #2a2b2e;
+    
+    --darkgray: #818081ff;
     --grafith: #556473;
+    --grayish: #a8a7a8ff;
+
+    --lightgray: #f7f7f7ff;
+
+    --silver: #d5d5ef;
+    --gray: #d5d5d6ff;
     --silverlight: #d8d8da;
-    --silver: #aaaabe;
+    --silverlighter: #ebebecff;
     --whiteblue: #efedfe;
     --whitesmoke: #f2f5f8;
     --white: #ffffff;
